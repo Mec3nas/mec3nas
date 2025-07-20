@@ -35,10 +35,22 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,tensorflow" />
     <img src="https://skillicons.dev/icons?i=py,pytorch,pycharm,git" />
-    <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg,NumPy.svg" /><br>
+    <br>
+    <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg"
+        width="50"
+        hight="50"/>
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png"
+        width="50"
+        hight="50"/>
+    <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg"
+        width="50"
+        hight="50"/>
+    <img src="https://icon.icepanel.io/Technology/svg/Oracle.svg"
+        width="50"
+        hight="50"/>
+    <img src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg"
+        width="50"
+        hight="50"/>
+    <br>
 </div>
-
-<br/>
-<hr/>
-<hr/>
 <hr/>
