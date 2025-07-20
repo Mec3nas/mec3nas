@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,Tensorflow" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,tensorflow" />
     <img src="https://skillicons.dev/icons?i=py,pytorch,pycharm,git" />
     <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg,NumPy.svg" /><br>
 </div>
