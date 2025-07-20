@@ -6,6 +6,7 @@
 
 <h3 align="center">A passionate python developer from Poland</h3>
 
+<hr/>
 <br/>
 
 <div align="center">
